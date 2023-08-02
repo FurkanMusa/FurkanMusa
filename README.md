@@ -1,9 +1,14 @@
-![banner](./clown.png)
+<!-- **FurkanMusa/FurkanMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+
 
 <h1 align="left">Slm 👋, I'm Furk</h1>
 <h6 align="right">Nbr</h6>
+    
 
-- 👨‍💻 All of my projects are available at [https://github.com/FurkanMusa?tab=repositories](https://github.com/FurkanMusa?tab=repositories)
+
+
+- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/FurkanMusa?tab=repositories)
 
 - 🔭 I’m currently working on [my portfolio website.](https://furkanmusa.github.io/weeb/3%20CSS%20-%20Revolution/index.html)
 
@@ -39,19 +44,13 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-
-
-<!--
-**FurkanMusa/FurkanMusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+<table>
+<tr>
+<td>
+<h2 align="left" style="display:flex; justify-content: center;"> <img src="./clown.png" alt="c" width="60" height="60"/></h2>
+</td>
+<td> <h3> Buralar yeşillenecek daha :D </h3> </td>
+</tr>
+</table>
+</div>
