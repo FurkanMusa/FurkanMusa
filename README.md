@@ -45,12 +45,6 @@
 </p>
 
 <div align="right">
-<table>
-<tr>
-<td>
-<h2 align="left" style="display:flex; justify-content: center;"> <img src="./clown.png" alt="c" width="60" height="60"/></h2>
-</td>
-<td> <h3> Buralar yeşillenecek daha :D </h3> </td>
-</tr>
-</table>
+<img src="./clown.png" alt="c" width="60" height="60"/>
+<h3> Buralar yeşillenecek daha :D </h3>
 </div>
