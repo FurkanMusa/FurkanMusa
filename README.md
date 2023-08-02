@@ -2,21 +2,21 @@
 
 
 
-<h1 align="left">Slm 👋, I'm Furk</h1>
+<h1 align="left">Slm <img src="./emoi/waving-hand.png" alt="waving-hand emoji" width="30" height="30"/>, ben Furkan <img src="./emoi/sparkles.png" alt="sparkles emoji" width="30" height="30"/> </h1>
 <h6 align="right">Nbr</h6>
     
 
 
 
-- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/FurkanMusa?tab=repositories)
+- <img src="./emoi/man-technologist.png" alt="man-technologist emoji" width="24" height="24"/> All of my projects are available at [**my repositories**](https://github.com/FurkanMusa?tab=repositories)
 
-- 🔭 I’m currently working on [my portfolio website.](https://furkanmusa.github.io/weeb/3%20CSS%20-%20Revolution/index.html)
+- <img src="./emoi/telescope.png" alt="telescope emoji" width="24" height="24"/> I’m currently working on [my portfolio website.](https://furkanmusa.github.io/weeb/3%20CSS%20-%20Revolution/index.html)
 
-- 🌱 I’m currently learning **React.**
+- <img src="./emoi/seedling.png" alt="seedling emoji" width="24" height="24"/> I’m currently learning **React.**
 
-- 💬 Ask me about **anything.**
+- <img src="./emoi/speech-balloon.png" alt="speech-balloon emoji" width="24" height="24"/> Ask me about **anything.**
 
-- 📫 [Contact **Me**](mailto:furkan.m.titrek@gmail.com)
+- <img src="./emoi/closed-mailbox-with-raised-flag.png" alt="closed-mailbox-with-raised-flag emoji" width="24" height="24"/> [Contact **Me**](mailto:furkan.m.titrek@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,6 +45,6 @@
 </p>
 
 <div align="right">
-<img src="./clown.png" alt="c" width="60" height="60"/>
+<img src="./emoi/clown.png" alt="clown emoji" width="60" height="60"/>
 <h3> Buralar yeşillenecek daha :D </h3>
 </div>
