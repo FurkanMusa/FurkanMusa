@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Slm <img src="./emoi/waving-hand.png" alt="waving-hand emoji" width="30" height="30"/>, ben Furkan <img src="./emoi/sparkles.png" alt="sparkles emoji" width="30" height="30"/> </h1>
-<h6 align="right">Nbr</h6>
+<!-- <h6 align="right">Nbr</h6> -->
     
 
 
