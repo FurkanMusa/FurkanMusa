@@ -48,5 +48,5 @@
 </p>
 
 <div align="right">
-<h2> Buralar yeşillenecek yia <img src="./emoi/clown.png" alt="clown emoji" width="50" height="50"/> </h2> 
+<h2><img src="./emoi/clown.png" alt="clown emoji" width="50" height="50"/> </h2> 
 </div>
