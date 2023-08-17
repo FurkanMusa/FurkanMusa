@@ -8,7 +8,7 @@
 
 
 
-- <img src="./emoi/man-technologist.png" alt="man-technologist emoji" width="24" height="24"/> All of my projects are available at [**my repositories**](https://github.com/FurkanMusa?tab=repositories)
+- <img src="./emoi/man-technologist.png" alt="man-technologist emoji" width="24" height="24"/> All of my publicly avaliable projects are available at [**my repositories**](https://github.com/FurkanMusa?tab=repositories)
 
 - <img src="./emoi/telescope.png" alt="telescope emoji" width="24" height="24"/> I’m currently working on [my portfolio website.](https://furkanmusa.github.io/weeb/3%20CSS%20-%20Revolution/index.html)
 
