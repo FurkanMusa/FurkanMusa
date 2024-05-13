@@ -18,9 +18,7 @@
 - <img src="./emoi/speech-balloon.png" alt="speech-balloon emoji" width="24" height="24"/> Ask me about **anything.**
 
 - <img src="./emoi/closed-mailbox-with-raised-flag.png" alt="closed-mailbox-with-raised-flag emoji" width="24" height="24"/> [Contact **Me**](mailto:furkan.m.titrek@gmail.com)
--->
 
-<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -47,7 +45,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
--->
+
 <div align="right">
 <h2><img src="./emoi/clown.png" alt="clown emoji" width="50" height="50"/> </h2> 
 </div>
+
+-->
